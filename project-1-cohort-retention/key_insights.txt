@@ -1,0 +1,44 @@
+
+COHORT RETENTION ANALYSIS — KEY FINDINGS
+==========================================
+
+DATASET: Online Retail II (UCI)
+- 1,067,371 total transactions
+- 805,549 after cleaning (removed guest checkouts & cancellations)
+- Period: December 2009 – December 2011
+- Geography: Primarily United Kingdom
+
+KEY METRICS:
+- Average Month 1 Retention: 21.2%
+- Average Month 3 Retention: 21.6%
+- Average Month 6 Retention: 17.8%
+
+FINDING 1 — Early Drop-off is the Core Problem:
+79% of customers do not return after their first purchase.
+The steepest drop happens between Month 0 and Month 1.
+This suggests the biggest opportunity is in post-purchase
+engagement — email campaigns, loyalty programs, 
+personalised recommendations within the first 30 days.
+
+FINDING 2 — Dec 2009 Cohort is an Outlier:
+Month 1 retention: 35.3% vs 21.2% average
+Month 6 retention: 37.7% — actually higher than Month 1
+This cohort likely represents the store's early loyal 
+customer base. Understanding what made this cohort 
+different (acquisition channel, product mix, promotions)
+could unlock a repeatable retention strategy.
+
+FINDING 3 — Survivors Become Loyal:
+Customers who return past Month 3 show relatively 
+stable retention (17-22% range). This means the product
+has genuine loyalty potential — the challenge is 
+surviving the first 90 days.
+
+RECOMMENDATIONS:
+1. Build a 30-day onboarding email sequence for new customers
+2. Investigate Dec 2009 acquisition source — replicate it
+3. Create a loyalty programme targeting Month 2-3 customers
+   to push them past the critical retention threshold
+4. Segment holiday shoppers (Oct-Dec cohorts) separately
+   as they show systematically lower retention
+
