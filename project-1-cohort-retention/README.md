@@ -32,3 +32,6 @@ to identify customer retention patterns and actionable insights.
 
 ### Retention Curves
 ![Retention Curves](retention_curves.png)
+
+## Interactive Tableau Dashboard
+→ View live dashboard: https://public.tableau.com/views/CustomerCohortRetentionAnalysis/Dashboard1
